@@ -1,0 +1,4 @@
+zone_id,zone_name,risk_band
+Z-HARB,Harbor ridge,HIGH
+Z-MAR,Marsh inlet,MEDIUM
+Z-OLD,Old quay,LOW

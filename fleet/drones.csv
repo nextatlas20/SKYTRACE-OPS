@@ -1,0 +1,5 @@
+drone_id,sensor,max_minutes
+D-A,RGB,8
+D-B,RGB,6
+D-T,THERMAL,7
+D-U,THERMAL,4
